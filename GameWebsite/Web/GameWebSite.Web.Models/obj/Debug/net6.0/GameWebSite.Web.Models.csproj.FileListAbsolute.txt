@@ -1,0 +1,17 @@
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\bin\Debug\net6.0\GameWebSite.Web.Models.deps.json
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\bin\Debug\net6.0\GameWebSite.Web.Models.dll
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\bin\Debug\net6.0\GameWebSite.Web.Models.pdb
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\bin\Debug\net6.0\GameWebsite.Data.Models.dll
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\bin\Debug\net6.0\GameWebsite.Service.Models.dll
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\bin\Debug\net6.0\GameWebsite.Service.Models.pdb
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\bin\Debug\net6.0\GameWebsite.Data.Models.pdb
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\obj\Debug\net6.0\GameWebSite.Web.Models.csproj.AssemblyReference.cache
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\obj\Debug\net6.0\GameWebSite.Web.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\obj\Debug\net6.0\GameWebSite.Web.Models.AssemblyInfoInputs.cache
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\obj\Debug\net6.0\GameWebSite.Web.Models.AssemblyInfo.cs
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\obj\Debug\net6.0\GameWebSite.Web.Models.csproj.CoreCompileInputs.cache
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\obj\Debug\net6.0\GameWebSite.Web.Models.csproj.CopyComplete
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\obj\Debug\net6.0\GameWebSite.Web.Models.dll
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\obj\Debug\net6.0\refint\GameWebSite.Web.Models.dll
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\obj\Debug\net6.0\GameWebSite.Web.Models.pdb
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite\Web\GameWebSite.Web.Models\obj\Debug\net6.0\ref\GameWebSite.Web.Models.dll

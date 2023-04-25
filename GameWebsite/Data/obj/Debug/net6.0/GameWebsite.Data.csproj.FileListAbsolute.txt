@@ -1,0 +1,17 @@
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\bin\Debug\net6.0\GameWebsite.Data.deps.json
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\bin\Debug\net6.0\GameWebsite.Data.runtimeconfig.json
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\bin\Debug\net6.0\GameWebsite.Data.dll
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\bin\Debug\net6.0\GameWebsite.Data.pdb
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\bin\Debug\net6.0\GameWebsite.Data.Models.dll
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\bin\Debug\net6.0\GameWebsite.Data.Models.pdb
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\obj\Debug\net6.0\GameWebsite.Data.csproj.AssemblyReference.cache
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\obj\Debug\net6.0\GameWebsite.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\obj\Debug\net6.0\GameWebsite.Data.AssemblyInfoInputs.cache
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\obj\Debug\net6.0\GameWebsite.Data.AssemblyInfo.cs
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\obj\Debug\net6.0\GameWebsite.Data.csproj.CoreCompileInputs.cache
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\obj\Debug\net6.0\GameWebsite.Data.csproj.CopyComplete
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\obj\Debug\net6.0\GameWebsite.Data.dll
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\obj\Debug\net6.0\refint\GameWebsite.Data.dll
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\obj\Debug\net6.0\GameWebsite.Data.pdb
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\obj\Debug\net6.0\GameWebsite.Data.genruntimeconfig.cache
+C:\Users\nolimit-2\source\repos\GameWebsite\src\GameWebsite.Data\obj\Debug\net6.0\ref\GameWebsite.Data.dll
